@@ -1,0 +1,43 @@
+ines@fdimail.com
+gimnasia
+0
+0
+juan@fdimail.com
+marta
+0
+0
+marta@fdimail.com
+princesa
+5
+patri@fdimail.com_1431873365 1
+patri@fdimail.com_1431873380 1
+patri@fdimail.com_1431873428 1
+patri@fdimail.com_1431890799 1
+patri@fdimail.com_1431896821 1
+4
+marta@fdimail.com_1431896112 0
+marta@fdimail.com_1431896283 0
+marta@fdimail.com_1431896397 0
+marta@fdimail.com_1431896527 0
+oscar@fdimail.com
+futbol
+0
+0
+patri@fdimail.com
+ballet
+4
+marta@fdimail.com_1431896112 1
+marta@fdimail.com_1431896283 1
+marta@fdimail.com_1431896397 1
+marta@fdimail.com_1431896527 1
+5
+patri@fdimail.com_1431873365 1
+patri@fdimail.com_1431873380 1
+patri@fdimail.com_1431873428 1
+patri@fdimail.com_1431890799 1
+patri@fdimail.com_1431896821 1
+silvia@fdimail.com
+mariposa
+0
+0
+XXX
